@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @RjStha7
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning FrontEnd
+- 👋 Hi, I’m @RjStha
+- 🌱 I’m currently learning python
 - 📫 How to reach me ...stharj001@gmail.com
 - ⚡ Fun fact: ...RJ WAS HERE
 
