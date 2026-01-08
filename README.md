@@ -9,10 +9,10 @@ I’ve completed my Bachelor’s in Computer Science and Information Technology,
 GitHub is my space to share personal projects, collaborate with others, and track my growth as a developer. It helps me stay connected with the developer community, contribute to open-source, and showcase what I’m working on.
 
 ## 🚀 My Future Plans  
-- Deepen my knowledge in **full-stack development**, **cloud computing**, and **DevOps**  
-- Contribute to impactful **open-source projects**  
-- Work in a collaborative and challenging **software development role**  
-- Continuously explore areas like **AI**, **blockchain**, and **startup tech**
+- Deepen my knowledge in Artificial Intelligence, machine learning, and intelligent system design
+- Develop and contribute to AI-driven and data-intensive projects with practical, real-world impact
+- Work in a collaborative, research-oriented environment to solve challenging software and AI problems
+- Continuously explore emerging technologies such as NLP, computer vision, AI for web/cloud applications, and startup innovationsh**
 
 ## 📁 What You’ll Find Here  
 You’ll see my **portfolio projects**, **academic works**, **experiments**, and **contributions**. Every repo is a step in my journey of learning and building.
